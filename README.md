@@ -1,7 +1,7 @@
-- Hi, I’m **Natalie** 👋
-- I’m a master's student in **Aalto University** 👩‍🎓 
+- 👋 Hi, I’m *Natalie*
+- 👩‍🎓 I’m a master's student in *Aalto University* 
 - 🔰 I'm new here since I used to build with the company's internal environment
-- 🌱 I’m currently learning **full stack web development**
+- 🌱 I’m currently learning *full stack web development*
 - 🚀 My dream is to build my own company that changes the world
 - 💞️ I’m looking to for an internship in startup and tech industry
 - 📫 Feel free to reach me via [LinkedIn](https://www.linkedin.com/in/nutthanuntha/)
