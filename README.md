@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @thanatly
-- 👀 I’m interested in entrepreneurship
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to for an internship in an early stage startup
-- 📫 How to reach me Twitter @nat_in_helsinki
+- 👋 Hi, I’m *Natalie*
+- 👩‍🎓 I’m a master's student in Aalto University
+- 🔰 I'm new here since I used to build with the company's internal environment
+- 🌱 I’m currently learning full stack web development
+- 🚀 My dream is to build my own company that changes the world
+- 💞️ I’m looking to for an internship in startup and tech industry
+- 📫 Feel free to reach me via [LinkedIn](https://www.linkedin.com/in/nutthanuntha/)
 
 <!---
 thanatly/thanatly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
