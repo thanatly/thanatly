@@ -1,6 +1,6 @@
 - 👋 Hi, I’m *Natalie*
-- 👩‍🎓 I’m a master's student in *Aalto University* 
-- 🌱 I’m currently learning *full stack web development*
+- 👩‍🎓 Currently studying Entrepreneurship at *Aalto University* 
+- 🌱 Learning *Full Stack Web Development*
 - 🚀 My dream is to build my own company that changes the world
 - 💞️ I’m looking to for an internship in startup and tech industry
 - 🔰 I'm new here since I used to build with the company's internal environment
