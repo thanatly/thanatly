@@ -1,4 +1,4 @@
-- 👋 Hi, I’m *Natalie*
+- 👋 Hi, I’m *Natalie*. I am a trilingual *product manager* based in Helsinki, Finland
 - 👩‍🎓 Currently studying Entrepreneurship at *Aalto University* 
 - 🌱 Learning *Full Stack Web Development*
 - 🚀 My dream is to build my own company that changes the world
